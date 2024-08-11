@@ -1,0 +1,61 @@
+/* SearchPage.module.css */
+
+/* Container for the layout */
+.parentdiv {
+  display: flex;
+  justify-content: space-between; /* Space out children */
+  align-items: flex-start; /* Align children to the top */
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+/* Style for the users container */
+.usersbox {
+  flex: 2; /* More space for user list */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 65%; /* Adjust as needed */
+}
+
+/* Style for each user item */
+.user {
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+/* Style for "No Record" message */
+.h1 {
+  text-align: center;
+  color: #6c757d;
+}
+
+/* Style for the search box container */
+.body {
+  flex: 1; /* Less space for search box */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 30%; /* Adjust as needed */
+}
+
+/* Style for the search box */
+.searchbox {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+/* Adjustments for input and buttons */
+.form-control {
+  max-width: 100%;
+}
+
+#link {
+  margin-top: 1rem;
+}
