@@ -111,7 +111,7 @@ const AddUserPage = () => {
               onClick={AddUserHandler}
               className="btn btn-primary"
             >
-              Create Post
+              Add User
             </button>
             <Link to="/" className="btn btn-success">
               Search Page
