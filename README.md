@@ -2,7 +2,7 @@
 <p>This Dynamic Search App is a fullstack web app thats performs CRUD operations with an user and also has a dynamic search functionality. It uses MYSQL as the database to store users, Express.js for handling server-side logic, React.js for building the user interface, and Node.js for server-side runtime environment. The app provides a seamless experience for developers to manage users.</p>
 
 
-<!-- add video -->
+https://github.com/user-attachments/assets/04ef1190-5203-4538-9dd8-3ff0a7135006
 
 
 <h3>Running the Project Locally</h3>
